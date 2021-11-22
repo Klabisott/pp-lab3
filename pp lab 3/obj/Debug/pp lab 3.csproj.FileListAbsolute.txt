@@ -1,0 +1,26 @@
+C:\Users\Klabisot\source\repos\pp lab 3\pp lab 3\bin\Debug\pp lab 3.exe.config
+C:\Users\Klabisot\source\repos\pp lab 3\pp lab 3\bin\Debug\pp lab 3.exe
+C:\Users\Klabisot\source\repos\pp lab 3\pp lab 3\bin\Debug\pp lab 3.pdb
+C:\Users\Klabisot\source\repos\pp lab 3\pp lab 3\obj\Debug\pp lab 3.csproj.AssemblyReference.cache
+C:\Users\Klabisot\source\repos\pp lab 3\pp lab 3\obj\Debug\MainWindow.g.cs
+C:\Users\Klabisot\source\repos\pp lab 3\pp lab 3\obj\Debug\App.g.cs
+C:\Users\Klabisot\source\repos\pp lab 3\pp lab 3\obj\Debug\pp lab 3_MarkupCompile.cache
+C:\Users\Klabisot\source\repos\pp lab 3\pp lab 3\obj\Debug\pp lab 3_MarkupCompile.lref
+C:\Users\Klabisot\source\repos\pp lab 3\pp lab 3\obj\Debug\MainWindow.baml
+C:\Users\Klabisot\source\repos\pp lab 3\pp lab 3\obj\Debug\pp lab 3.g.resources
+C:\Users\Klabisot\source\repos\pp lab 3\pp lab 3\obj\Debug\pp_lab_3.Properties.Resources.resources
+C:\Users\Klabisot\source\repos\pp lab 3\pp lab 3\obj\Debug\pp lab 3.csproj.GenerateResource.cache
+C:\Users\Klabisot\source\repos\pp lab 3\pp lab 3\obj\Debug\pp lab 3.csproj.CoreCompileInputs.cache
+C:\Users\Klabisot\source\repos\pp lab 3\pp lab 3\obj\Debug\pp lab 3.exe
+C:\Users\Klabisot\source\repos\pp lab 3\pp lab 3\obj\Debug\pp lab 3.pdb
+C:\Users\Klabisot\source\repos\pp lab 3\pp lab 3\obj\Debug\pp lab 3_Content.g.cs
+C:\Users\Klabisot\source\repos\pp lab 3\pp lab 3\bin\Debug\PP Lab 2.mdf
+C:\Users\Klabisot\source\repos\pp lab 3\pp lab 3\bin\Debug\PP Lab 2_log.ldf
+C:\Users\Klabisot\source\repos\pp lab 3\pp lab 3\bin\Debug\EntityFramework.dll
+C:\Users\Klabisot\source\repos\pp lab 3\pp lab 3\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Klabisot\source\repos\pp lab 3\pp lab 3\bin\Debug\EntityFramework.xml
+C:\Users\Klabisot\source\repos\pp lab 3\pp lab 3\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Klabisot\source\repos\pp lab 3\pp lab 3\obj\Debug\TableView.g.cs
+C:\Users\Klabisot\source\repos\pp lab 3\pp lab 3\obj\Debug\TableView.baml
+C:\Users\Klabisot\source\repos\pp lab 3\pp lab 3\obj\Debug\Result.g.cs
+C:\Users\Klabisot\source\repos\pp lab 3\pp lab 3\obj\Debug\Result.baml
